@@ -1,0 +1,11 @@
+{
+  "username": "IsatisStack",
+  "name": "Amirhossein Bashizade",
+  "wordmark": "AMIR",
+  "role": "Back-end developer · AI automation builder",
+  "location": "Iran · from Yazd",
+  "status": "Creating websites, applications, interactive environments, and educational content in the fields of programming and artificial intelligence.",
+  "website": "https://isatisstack.online",
+  "photo": "assets/profile-source.png",
+  "skills": ["python","django","django-rest","flask","telegram-bot","n8n","wordpress-developing","mysql","postgersql","tailwindcss"]
+}
